@@ -1,5 +1,5 @@
 
-@objc(CordovaSnapPlugin) class CordovaSnapPlugin : CDVPlugin {
+@objc(CordovaPluginSnapkit) class CordovaPluginSnapkit : CDVPlugin {
   @objc(snapCreativeKit:) 
   func snapCreativeKit(command: CDVInvokedUrlCommand) { 
     // Set the plugin result to fail.

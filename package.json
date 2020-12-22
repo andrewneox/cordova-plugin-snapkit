@@ -1,6 +1,6 @@
 {
-  "name": "CordovaSnapPlugin",
-  "version": "0.0.1",
+  "name": "CordovaPluginSnapkit",
+  "version": "0.0.2",
   "description": "Cordova plugin for Snapchat LoginKit and CreativeKit",
     "id": "cordova-plugin-snapkit",
     "platforms": [ 
