@@ -1,0 +1,20 @@
+{
+  "name": "CordovaSnapPlugin",
+  "version": "0.0.1",
+  "description": "Cordova plugin for Snapchat LoginKit and CreativeKit", // What you want the desc to say.
+  "cordova": {
+    "id": "cordova-plugin-snapkit",
+    "platforms": [ 
+      "ios"
+    ]
+  },
+  "keywords": [ 
+    "cordova",
+    "LoginKit",
+    "CreativeKit",
+    "Snapchat",
+    "cordova-ios",
+  ],
+  "author": "Andrew Neo",
+  "license": "MIT"
+}
