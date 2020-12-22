@@ -1,8 +1,7 @@
 {
   "name": "CordovaSnapPlugin",
   "version": "0.0.1",
-  "description": "Cordova plugin for Snapchat LoginKit and CreativeKit", // What you want the desc to say.
-  "cordova": {
+  "description": "Cordova plugin for Snapchat LoginKit and CreativeKit",
     "id": "cordova-plugin-snapkit",
     "platforms": [ 
       "ios"
